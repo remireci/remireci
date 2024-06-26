@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm developing software and web applications.
 
-Javascript, Typescript, Python
+  ===> Javascript, Typescript, Python <===
 
 When I'm not on Github, I'm on Gitlab.
 
