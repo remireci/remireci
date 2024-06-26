@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm developing software and web applications.
+I'm developing and maintaining software and web applications.
 
   ===> Javascript, Typescript, Python <===
 
